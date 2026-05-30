@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdender",
+        "uuid": 5877170,
+        "checksum": "9ox7xr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
